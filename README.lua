@@ -1,0 +1,9 @@
+-- Open API 1.0, RBX.lua Custom Implementations Made Easy
+-- Youre Reading the English Version of OpenAPI
+-- OpenAPI Implements Functions to the RBX.lua  Language
+--  The RBLX OpenAPI Original Script is the Script Called OpenAPI.lua
+-- Open API is Open Source in GitHub
+-- for the Source in GitHub go
+-- GitHub / PressTpro / rbxopenapi
+-- You Can Found All the Guides in GitHub Source Code 
+-- This is Only the Readme not the Source
